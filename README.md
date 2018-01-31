@@ -1,9 +1,3 @@
-BCCGold Core integration/staging tree
-=====================================
-
-[![Build Status](https://travis-ci.org/BCCGold/BCCGold.svg?branch=master)](https://travis-ci.org/BCCGold/BCCGold)
-
-
 What is BCCGold?
 ----------------
 
